@@ -25,7 +25,7 @@ url                      : "https://parting-blog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/팟팅_로고.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "팟팅"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "we are developers of parting"
+  bio              : "팟팅은 대구 소재 학생/직장인이 모여 만든 토이 프로젝트입니다. 진행하면서 겪은 어려움을 해결한 과정과 느낀 점들을 남기는 블로그입니다."
   location         : "Daegu/Seoul"
   email            :
   links:
